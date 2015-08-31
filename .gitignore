@@ -2,4 +2,5 @@
 *
 // ...then add stuff back.
 !.gitignore
+!.zshrc
 
