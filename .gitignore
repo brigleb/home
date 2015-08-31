@@ -1,0 +1,5 @@
+// Start by ignoring everything
+*
+// ...then add stuff back.
+!.gitignore
+
